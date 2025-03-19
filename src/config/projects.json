@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident odit neque, at quidem tempore quam veniam sapiente officia quae dolorum saepe voluptatibus nemo eveniet nisi dolores nostrum, laboriosam impedit fuga minus accusantium nulla voluptatem? Molestiae, deleniti? Quos dolorum ipsa corporis excepturi illo, ratione quae ipsam, natus, explicabo aut temporibus eum.",
+            "image": "images/fingerprint.svg"
+        },
+    
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident odit neque, at quidem tempore quam veniam sapiente officia quae dolorum saepe voluptatibus nemo eveniet nisi dolores nostrum, laboriosam impedit fuga minus accusantium nulla voluptatem? Molestiae, deleniti? Quos dolorum ipsa corporis excepturi illo, ratione quae ipsam, natus, explicabo aut temporibus eum.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident odit neque, at quidem tempore quam veniam sapiente officia quae dolorum saepe voluptatibus nemo eveniet nisi dolores nostrum, laboriosam impedit fuga minus accusantium nulla voluptatem? Molestiae, deleniti? Quos dolorum ipsa corporis excepturi illo, ratione quae ipsam, natus, explicabo aut temporibus eum.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident odit neque, at quidem tempore quam veniam sapiente officia quae dolorum saepe voluptatibus nemo eveniet nisi dolores nostrum, laboriosam impedit fuga minus accusantium nulla voluptatem? Molestiae, deleniti? Quos dolorum ipsa corporis excepturi illo, ratione quae ipsam, natus, explicabo aut temporibus eum.",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
